@@ -11,4 +11,4 @@ paper: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
 code: https://github.com/mofradlab/metabiome
 # website: https://leonidk.github.io/fmb-plus
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+An advanced multiscale computational platform that simulates how different species of gut bacteria grow and interact over time.
