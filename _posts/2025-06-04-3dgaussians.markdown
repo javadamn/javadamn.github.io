@@ -7,7 +7,8 @@ categories: research
 author: "Javad"
 authors: "<strong>JAD</strong>, AD, AV, MM"
 venue: "mSystems"
-arxiv: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
+paper: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
+arxiv: https://www.biorxiv.org/content/10.1101/2024.12.11.628036v1.abstract
 code: https://github.com/mofradlab/metabiome
 ---
 An advanced multiscale computational platform that simulates how different species of gut bacteria grow and interact over time.
