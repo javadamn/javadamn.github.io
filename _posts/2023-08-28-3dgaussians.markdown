@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+title:  "FMetaBiome: a multiscale model integrating agent-based and metabolic networks to reveal spatial regulation in gut mucosal microbial communities"
+date:   2025-06-04 22:21:59 +00:00
+image: /images/metabiome.jpeg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+author: "Javad"
+authors: "<strong>JAD</strong>, AD, AV, MM"
+venue: "mSystems"
+paper: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
+code: https://github.com/mofradlab/metabiome
+# website: https://leonidk.github.io/fmb-plus
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
