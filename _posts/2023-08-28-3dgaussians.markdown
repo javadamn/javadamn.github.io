@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MetaBiome: a multiscale model integrating agent-based and metabolic networks to reveal spatial regulation in gut mucosal microbial communities"
-date:   2025-06-04 22:21:59 +00:00
+date:   20253-08-28 22:21:59 +00:00
 image: /images/metabiome.jpg
 categories: research
 author: "Javad"
