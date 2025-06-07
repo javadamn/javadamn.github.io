@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "KODA: An agentic framework for KEGG orthology-driven discovery of antimicrobial drug targets in gut microbiome"
+date:   2025-06-01 22:21:59 +00:00
+image: /images/koda.png
+categories: research
+author: "Javad"
+authors: "<strong>JAD</strong>, MP, MN, MM"
+# venue: "mSystems"
+# paper: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
+arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656480v1
+code: https://github.com/javadamn/koda
+---
+KODA aims to advance biological discovery by targeting the gut microbiome to identify potential antimicrobial drug targets by combining LLMs and knowledge
+graphs. It's a scalable tool to streamline hypothesis generation and enhance data-driven microbiology research.

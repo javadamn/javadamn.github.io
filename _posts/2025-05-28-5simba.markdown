@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SIMBA-GNN: Simulation-augmented microbiome abundance graph neural network"
+date:   2025-05-28 22:21:59 +00:00
+image: /images/simba.png
+categories: research
+author: "Javad"
+authors: "<strong>JAD</strong>, MP, MM"
+# venue: "mSystems"
+# paper: https://journals.asm.org/doi/full/10.1128/msystems.01652-24
+arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656377v1
+code: https://github.com/javadamn/SIMBA-GNN
+---
+Using a custom edge-aware heterogeneous graph transformer to integrate scaler edge attributes into attention mechanism along with building a dataset of 2850 mechanistic pairwise microbial interactions.
