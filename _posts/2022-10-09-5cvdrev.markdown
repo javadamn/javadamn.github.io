@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Emerging computational paradigms to address the complex role of gut microbial metabolism in cardiovascular diseases"
+date:   2022-10-09 22:21:59 +00:00
+image: /images/cvdrev.png
+categories: research
+author: "Javad"
+authors: "<strong>JAD</strong>, AV, MM"
+venue: "Frontiers in Cardiovascular Medicine"
+paper: https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2022.987104/full
+# arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656480v1
+# code: https://github.com/javadamn/koda
+---
