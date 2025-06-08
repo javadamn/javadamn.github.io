@@ -11,5 +11,5 @@ authors: "<strong>JAD</strong>, MP, MN, MM"
 arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656480v1
 code: https://github.com/javadamn/koda
 ---
-KODA aims to advance biological discovery by targeting the gut microbiome to identify potential antimicrobial drug targets by combining LLMs and knowledge
-graphs. It's a scalable tool to streamline hypothesis generation and enhance data-driven microbiology research.
+Advancing biological discovery by targeting the gut microbiome to identify potential antimicrobial drug targets using LLMs and knowledge
+graphs. A scalable tool to streamline hypothesis generation and enhance data-driven microbiology research.
