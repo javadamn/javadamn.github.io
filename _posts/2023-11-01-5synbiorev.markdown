@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Synthetic biology tools for environmental protection"
+date:   2023-11-01 22:21:59 +00:00
+image: /images/synbiorev.png
+categories: research
+author: "Javad"
+authors: "<strong>JAD</strong>, SR, MGA, AS, JL, RLA, IM"
+venue: "Biotechnology Advances"
+paper: https://www.sciencedirect.com/science/article/pii/S0734975023001465
+# arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656480v1
+# code: https://github.com/javadamn/koda
+---
+What we know from the applications of synthetic biology for environmental protection?
