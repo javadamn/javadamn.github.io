@@ -252,23 +252,32 @@
       justify-self: end;
     }
 
-    .portrait-wrap::before {
+    /* .portrait-wrap::before {
       position: absolute;
       inset: 18px -18px -18px 18px;
       z-index: -1;
       border-radius: 44% 56% 46% 54% / 54% 45% 55% 46%;
       content: "";
       background: linear-gradient(145deg, rgba(21, 130, 122, 0.30), rgba(23, 107, 135, 0.10));
-    }
+    } */
 
-    .portrait {
+    /* .portrait {
       width: 100%;
       aspect-ratio: 4 / 5;
       border: 7px solid rgba(255, 255, 255, 0.90);
       border-radius: 44% 56% 46% 54% / 54% 45% 55% 46%;
       object-fit: cover;
       box-shadow: var(--shadow);
-    }
+    } */
+     .portrait {
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      object-fit: cover;
+      object-position: center top;
+      box-shadow: var(--shadow);
+      }
 
     .content-layout {
       display: grid;
@@ -760,14 +769,14 @@ My work brings together different computational tools, optimization, and AI to t
       </div>
 
       <div class="portrait-wrap">
-        <img class="portrait" src="{{ site.baseurl }}/images/photo_2025.jpg" alt="Portrait of Javad Aminian-Dehkordi" width="680" height="850">
+        <img class="portrait" src="{{ site.baseurl }}/images/photo_2025.jpg" alt="Portrait of Javad" width="680" height="850">
       </div>
     </section>
 
     <div class="site-shell content-layout">
       <aside class="profile-sidebar" aria-label="Short profile">
         <div class="profile-card">
-          <img class="profile-card-photo" src="{{ site.baseurl }}/images/photo_2025.jpg" alt="Javad Aminian-Dehkordi" width="460" height="460" loading="lazy">
+          <img class="profile-card-photo" src="{{ site.baseurl }}/images/photo_2025.jpg" alt="Javad" width="460" height="460" loading="lazy">
           <div class="profile-card-body">
             <p class="profile-card-label">About</p>
             <p class="profile-card-name">Javad Aminian-Dehkordi</p>
